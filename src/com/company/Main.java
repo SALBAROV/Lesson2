@@ -15,6 +15,8 @@ public class Main {
             case 3:
                 System.out.println("Число ровно трем");
         }
+
+
     }
 }
 
